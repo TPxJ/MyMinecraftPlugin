@@ -1,0 +1,4 @@
+name: test
+version: '${project.version}'
+main: me.tpxj.test.Test
+api-version: '1.21'

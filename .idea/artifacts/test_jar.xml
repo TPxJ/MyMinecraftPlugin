@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="test:jar">
+    <output-path>$USER_HOME$/Documents/MCSERVER/PVP-Project/plugins</output-path>
+    <root id="archive" name="test.jar">
+      <element id="module-output" name="test" />
+    </root>
+  </artifact>
+</component>
